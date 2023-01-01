@@ -23,7 +23,7 @@
 				<thead>
 					<tr>
 						<th>#</th>
-						<th>Date Created</th>
+						<th>Date Created </th>
 						<th>Workshop Name</th>
 						<th>Assigned Person</th>
 						<th>Status</th>
